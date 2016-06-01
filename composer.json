@@ -1,0 +1,11 @@
+{
+  "name": "wp-category-menu",
+  "type": "wordpress-plugin",
+  "homepage": "https://github.com/BenjaminMedia/wp-category-menu",
+  "license": "GPLv3",
+  "description": "plugin tool for autoload post category on menu",
+  "keywords": ["plugin"],
+  "require": {
+    "composer/installers": "~1.0.6"
+  }
+}
